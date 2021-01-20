@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Cat Years
 //
-//  Created by Alan Reynaldo Mendez on 1/19/21.
+//  Created by Alan Mendez on 1/19/21.
 //
 
 import UIKit

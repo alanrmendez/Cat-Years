@@ -13,6 +13,7 @@
 		60971B7825B7E4D300859E08 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60971B7625B7E4D300859E08 /* Main.storyboard */; };
 		60971B7A25B7E4D700859E08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60971B7925B7E4D700859E08 /* Assets.xcassets */; };
 		60971B7D25B7E4D700859E08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60971B7B25B7E4D700859E08 /* LaunchScreen.storyboard */; };
+		60971B8625B7E72500859E08 /* 800px-Cat_November_2010-1a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 60971B8525B7E72500859E08 /* 800px-Cat_November_2010-1a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		60971B7925B7E4D700859E08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60971B7C25B7E4D700859E08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		60971B7E25B7E4D700859E08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60971B8525B7E72500859E08 /* 800px-Cat_November_2010-1a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "800px-Cat_November_2010-1a.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				60971B7225B7E4D300859E08 /* SceneDelegate.swift */,
 				60971B7425B7E4D300859E08 /* ViewController.swift */,
 				60971B7625B7E4D300859E08 /* Main.storyboard */,
+				60971B8525B7E72500859E08 /* 800px-Cat_November_2010-1a.jpg */,
 				60971B7925B7E4D700859E08 /* Assets.xcassets */,
 				60971B7B25B7E4D700859E08 /* LaunchScreen.storyboard */,
 				60971B7E25B7E4D700859E08 /* Info.plist */,
@@ -95,6 +98,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
+				ORGANIZATIONNAME = Aurora;
 				TargetAttributes = {
 					60971B6C25B7E4D300859E08 = {
 						CreatedOnToolsVersion = 12.3;
@@ -124,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60971B8625B7E72500859E08 /* 800px-Cat_November_2010-1a.jpg in Resources */,
 				60971B7D25B7E4D700859E08 /* LaunchScreen.storyboard in Resources */,
 				60971B7A25B7E4D700859E08 /* Assets.xcassets in Resources */,
 				60971B7825B7E4D300859E08 /* Main.storyboard in Resources */,
